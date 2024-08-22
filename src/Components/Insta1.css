@@ -1,0 +1,82 @@
+.one{
+    display: flex;
+    justify-content: center;
+
+}
+.box{
+    text-align: center;
+    height: 310px;
+    width: 250px;
+    border: 2px solid black;
+    background-color:blue;
+    
+}
+.img{
+    height: 100px;
+    width: 150px;
+    /*border: 2px solid black;*/
+    margin: auto;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE8w6TKU8zvTgVk38Cdw2pMddLsJGvlEi5ZQ&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    height: 60px;
+    width: 150px;
+    margin: auto;
+    /*border: 2px solid black; */
+    margin-top: 10px;
+
+}
+.two{
+    display: flex;
+    height: 20px;
+    width: 250px;
+    justify-content: space-around;
+}
+.like{
+    background-color:white ;
+    height: 15px;
+    width:50px ;
+    text-align: center;
+    font-size:xx-small;
+    /* margin-right: 120px; */
+    
+}
+.share{
+    background-color:white ;
+    height: 15px;
+    width:50px ;
+    text-align: center;
+    font-size:xx-small;
+    /* margin-right: 50px; */
+}
+.dis{
+    background-color:white ;
+    height: 15px;
+    width:50px ;
+    text-align: center;
+    font-size:xx-small;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

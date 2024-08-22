@@ -1,0 +1,60 @@
+#one{
+    margin: auto;
+    text-align: center;
+    border: 10px solid black;
+    width: 500px;
+    margin-top: 30px;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#two{
+    display: inline-block;
+    height: 150px;
+    width:200px;
+    background-image: url("https://www.gkseries.com/blog/wp-content/uploads/2020/03/Builders-Engineering-College-Tirupur.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: purple;
+    text-align: center;
+    margin-left: 80px;
+    
+    
+}
+#three{
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3TjtS-t7KKxUM_LB5Z9EFM7yaZpaEDpqkw&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 50px;
+    color: purple;
+    text-align: center;
+}
+#four{
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    background-image: url("https://images.collegedunia.com/public/college_data/images/campusimage/1480933728buil1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 50px;
+    color: purple;
+    text-align: center;
+}
+#five{
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYj59ykRmfsrfG1XLQvdxyf1kvfmf8EFkAWg&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 50px;
+    color: purple;
+    text-align: center;
+}
+
+
